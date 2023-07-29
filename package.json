@@ -1,11 +1,11 @@
 {
-  "name": "@terra-rebels/ledger-station-js",
+  "name": "@terraclassic-community/ledger-station-js",
   "version": "1.3.8-beta.1",
   "description": "API for Terra App (Ledger Nano S/X)",
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terra-rebels/ledger-station-js.git"
+    "url": "git+https://github.com/classic-terra/ledger-station-js.git"
   },
   "keywords": [
     "Ledger",
@@ -14,12 +14,12 @@
     "Cosmos",
     "Terra"
   ],
-  "author": "Terra Rebels",
+  "author": "Terra Classic Community",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/terra-rebels/ledger-station-js/issues"
+    "url": "https://github.com/classic-terra/ledger-station-js/issues"
   },
-  "homepage": "https://github.com/terra-rebels/ledger-station-js",
+  "homepage": "https://github.com/classic-terra/ledger-station-js",
   "publishConfig": {
     "access": "public"
   },
@@ -28,7 +28,7 @@
     "@ledgerhq/hw-transport-node-hid": "^6.20.0",
     "@ledgerhq/hw-transport-webhid": "^6.20.0",
     "@ledgerhq/hw-transport-webusb": "^6.20.0",
-    "@terra-rebels/feather.js": "^1.0.7-beta.2",
+    "@terraclassic-community/feather.js": "^1.0.7-beta.2",
     "bech32": "^2.0.0",
     "ripemd160": "^2.0.2"
   },

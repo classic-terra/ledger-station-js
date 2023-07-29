@@ -1,11 +1,11 @@
-import { Key } from "@terra-rebels/feather.js";
-import { AccAddress } from "@terra-rebels/feather.js";
-import { SimplePublicKey } from "@terra-rebels/feather.js";
+import { Key } from "@terraclassic-community/feather.js";
+import { AccAddress } from "@terraclassic-community/feather.js";
+import { SimplePublicKey } from "@terraclassic-community/feather.js";
 
 import Transport from "@ledgerhq/hw-transport";
 import TerraApp from "./app";
 import { signatureImport } from "secp256k1";
-import { SignatureV2, SignDoc } from "@terra-rebels/feather.js";
+import { SignatureV2, SignDoc } from "@terraclassic-community/feather.js";
 import {
   AppInfoResponse,
   CommonResponse,
